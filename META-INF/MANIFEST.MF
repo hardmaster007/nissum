@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EjercicioJava
+Bundle-SymbolicName: EjercicioJava
+Bundle-Version: 1.0.0.qualifier
+Export-Package: cl.nisum,
+ cl.nisum.controller,
+ cl.nisum.models.entity,
+ cl.nisum.models.repository,
+ cl.nisum.services
